@@ -1,10 +1,10 @@
 # 《靜觀 See the Stillness》AI 眼鏡概念廣告
 
-![封面](docs/images/cover.jpg)
+[![觀看影片](docs/images/cover.jpg)](https://youtu.be/E_XXhJQ-reg)
 
 一支 29 秒的 UNIQLO 威靈頓框眼鏡概念廣告。畫面全部由 **Google Flow** 生成，剪輯、調色、轉場、字卡與原創配樂則用 **Claude Code + FFmpeg** 以程式完成。
 
-▶ **觀看影片**：（在這裡貼上 YouTube 或 Google 雲端硬碟連結）
+▶ **觀看影片**：https://youtu.be/E_XXhJQ-reg
 
 > 本作品為課堂作業的概念廣告，並非 UNIQLO 官方廣告。畫面中的眼鏡為 AI 生成，可能與實際商品不同。
 
